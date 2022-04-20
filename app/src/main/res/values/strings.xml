@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">User Mangement</string>
+    <string name="add">ADD</string>
+    <string name="add_new_user">Add New User</string>
+    <string name="user_name">User Name*</string>
+    <string name="name_hint">Ex. Tenali Ramakrishna</string>
+    <string name="user_email">User Email*</string>
+    <string name="email_hint">Ex. user@15ce.com</string>
+    <string name="gender">Gender*</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="cancel">CANCEL</string>
+    <string name="ok">OK</string>
+    <string name="woohoo">Woohoo !</string>
+    <string name="new_user_added_successfully">New user added successfully</string>
+    <string name="remove_user_alert">Are you sure you want to remove this user?</string>
+    <string name="no">No</string>
+    <string name="yes_remove">Yes, Remove</string>
+    <string name="removed">Removed</string>
+    <string name="removed_success">The user has been removed successfully</string>
+    <string name="active">Active</string>
+</resources>
